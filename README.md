@@ -18,7 +18,7 @@ Hello, I'm Heba, a Data Reporting and Data Analyst specialist. My work supports 
   - Electronics and Clothing are the top-selling product categories, together accounting for more than 65% of total sales.
   - Monthly sales show peaks in May and October.
   - Quarterly analysis shows Q2 and Q4 generate the highest revenue, suggesting focus periods for promotions and campaigns.
-- **Project Link:** 
+- **Project Link:** Retail Sales Analyse
 
 ---
 

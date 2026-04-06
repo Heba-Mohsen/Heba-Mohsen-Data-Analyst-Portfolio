@@ -22,7 +22,7 @@ Hello, I'm Heba, a Data Reporting and Data Analyst specialist. My work supports 
 
 ### 2. Customer Segmentation Analysis – SQL & Power BI
 - **Objective:** Examine customer behavior (2018–2020) to support marketing strategies and enhance customer engagement.
-- **Tools Used:** SQL, Power BI
+- **Tools Used:** MySQL, Power BI
 - **Key Insights:**
   - Most customers are in the Medium Income / Low Spend segment.
   - Many marketing campaigns had low acceptance; opportunities exist for targeted campaigns.

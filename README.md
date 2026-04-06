@@ -19,10 +19,7 @@ Hello, I'm Heba, a Data Reporting and Data Analyst specialist. My work supports 
   - Monthly sales show peaks in May and October.
   - Quarterly analysis shows Q2 and Q4 generate the highest revenue, suggesting focus periods for promotions and campaigns.
 - **Project Link:**
-   - **Dataset:** [retail_sales_dataset.csv](https://github.com/Heba-Mohsen/Heba-Mohsen-Data-Analyst-Portfolio/blob/main/Retail%20Sales%20Analyse/retail_sales_dataset.csv)  
-   - **Dashboard (Power BI):** [Retail Sales dashboard.pbix](https://github.com/Heba-Mohsen/Heba-Mohsen-Data-Analyst-Portfolio/blob/main/Retail%20Sales%20Analyse/Retail%20Sales%20dashboard.pbix)
-
----
+   - **Dashboard (Power BI):**
 
 ### 2. Customer Segmentation Analysis – SQL & Power BI
 - **Objective:** Examine customer behavior (2018–2020) to support marketing strategies and enhance customer engagement.

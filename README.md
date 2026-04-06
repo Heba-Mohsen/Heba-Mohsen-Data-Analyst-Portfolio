@@ -28,4 +28,4 @@ Hello, I'm Heba, a Data Reporting and Data Analyst specialist. My work supports 
   - Many marketing campaigns had low acceptance; opportunities exist for targeted campaigns.
   - Age groups 41–60 contribute most to total spending.
   - A significant portion of customers are at risk or regular, highlighting retention focus areas.
-- **Project Link:** 
+- **Project Link:** [View Dashboard](https://github.com/Heba-Mohsen/Heba-Mohsen-Data-Analyst-Portfolio/blob/main/Customer%20Segmentation%20Dashboard.pdf).

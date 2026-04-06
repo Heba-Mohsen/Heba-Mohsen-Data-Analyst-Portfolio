@@ -18,7 +18,9 @@ Hello, I'm Heba, a Data Reporting and Data Analyst specialist. My work supports 
   - Electronics and Clothing are the top-selling product categories, together accounting for more than 65% of total sales.
   - Monthly sales show peaks in May and October.
   - Quarterly analysis shows Q2 and Q4 generate the highest revenue, suggesting focus periods for promotions and campaigns.
-- **Project Link:** Retail Sales Analyse
+- **Project Link:**
+   - **Dataset:** [retail_sales_dataset.csv](https://github.com/Heba-Mohsen/Heba-Mohsen-Data-Analyst-Portfolio/blob/main/Retail%20Sales%20Analyse/retail_sales_dataset.csv)  
+   - **Dashboard (Power BI):** [Retail Sales dashboard.pbix](https://github.com/Heba-Mohsen/Heba-Mohsen-Data-Analyst-Portfolio/blob/main/Retail%20Sales%20Analyse/Retail%20Sales%20dashboard.pbix)
 
 ---
 

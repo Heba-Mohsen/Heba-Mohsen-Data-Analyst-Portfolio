@@ -1,5 +1,6 @@
 # Heba Mohsen – Data Analyst Portfolio
-Hello, I'm Heba, a Data Reporting and Data Analyst specialist. I create analytical tools and reports that enable data-driven decision-making and process optimization.
+Hello, I'm Heba, a Data Reporting and Data Analyst specialist. My work supports data driven decision making and enhances process efficiency through detailed reporting and analysis.
+
 ---
 ## Skills
 - Microsoft Excel

@@ -4,7 +4,7 @@ Hello, I'm Heba, a Data Reporting and Data Analyst specialist. My work supports 
 ---
 ## Skills
 - Microsoft Excel
-- SQL
+- MySQL
 - Microsoft Power BI
 ---
 
@@ -20,7 +20,7 @@ Hello, I'm Heba, a Data Reporting and Data Analyst specialist. My work supports 
   - Quarterly analysis shows Q2 and Q4 generate the highest revenue, suggesting focus periods for promotions and campaigns.
 - **Project File:** [View Dashboard](https://github.com/Heba-Mohsen/Heba-Mohsen-Data-Analyst-Portfolio/blob/main/Retail%20Sales%20dashboard%20.pdf)
 
-### 2. Customer Segmentation Analysis – SQL & Power BI
+### 2. Customer Segmentation Analysis – MySQL & Power BI
 - **Objective:** Examine customer behavior (2018–2020) to support marketing strategies and enhance customer engagement.
 - **Tools Used:** MySQL, Power BI
 - **Key Insights:**
@@ -28,5 +28,4 @@ Hello, I'm Heba, a Data Reporting and Data Analyst specialist. My work supports 
   - Many marketing campaigns had low acceptance; opportunities exist for targeted campaigns.
   - Age groups 41–60 contribute most to total spending.
   - A significant portion of customers are at risk or regular, highlighting retention focus areas.
-
 - **Project Link:** 

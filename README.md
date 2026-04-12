@@ -52,3 +52,23 @@ Hello, I'm Heba, a Data Reporting and Data Analyst specialist. My work supports 
   - **Before:** Sales trends and event targeting were unclear.  
   - **After:** Detected each event per month with target category to increase sales, identified high-performing months and top categories, enabling focused promotions and better inventory planning.  
 - **Project File:** [View Dashboard](https://github.com/Heba-Mohsen/Heba-Mohsen-Data-Analyst-Portfolio/blob/main/Retail%20Sales%20dashboard%20.pdf)
+
+
+### 3. Household Energy Consumption Dashboard – Power BI
+
+- **Objective:** Analyze household energy consumption patterns and identify key factors affecting usage.
+- **Tools Used:** Power BI, Excel  
+
+- **Key Insights:**
+  - Energy consumption increases with household size, with larger households contributing the most.
+  - AC usage significantly increases energy consumption compared to non-AC households.
+  - Higher temperatures lead to increased energy usage, especially in households using AC.
+  - Energy consumption is concentrated during peak hours rather than evenly distributed.
+  - Weekly energy usage is relatively stable with minor fluctuations.
+  - Potential energy savings can be achieved by targeting high-consumption segments and optimizing peak-hour usage.
+
+- **Before vs After Insights:**  
+  - **Before:** Limited visibility on key drivers of energy consumption and usage patterns.  
+  - **After:** Identified household size and AC usage as primary drivers, detected peak usage behavior, and uncovered temperature impact on energy consumption, enabling better energy optimization strategies.  
+
+- **Project File:** [View Dashboard]()

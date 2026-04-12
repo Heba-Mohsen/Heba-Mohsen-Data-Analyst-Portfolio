@@ -71,4 +71,4 @@ Hello, I'm Heba, a Data Reporting and Data Analyst specialist. My work supports 
   - **Before:** Limited visibility on key drivers of energy consumption and usage patterns.  
   - **After:** Identified household size and AC usage as primary drivers, detected peak usage behavior, and uncovered temperature impact on energy consumption, enabling better energy optimization strategies.  
 
-- **Project File:** [View Dashboard]()
+- **Project File:** [View Dashboard](https://github.com/Heba-Mohsen/Heba-Mohsen-Data-Analyst-Portfolio/blob/main/Household%20Energy%20Consumption.pdf)

@@ -41,7 +41,7 @@ Hello, I'm Heba, a Data Reporting and Data Analyst specialist. My work supports 
 - **Project File:** [View Dashboard](https://github.com/Heba-Mohsen/Heba-Mohsen-Data-Analyst-Portfolio/blob/main/Customer%20Segmentation%20Dashboard.pdf)
 - **SQL Query Screenshot:**
 
-![SQL Query](images/MySQL Query.jbg)
+![SQL Query](images/MySQL Query.jpg)
 
 ### 2. Retail Sales Dashboard – Power BI
 - **Objective:** Analyze sales performance and identify trends.
